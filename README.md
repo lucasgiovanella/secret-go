@@ -110,10 +110,6 @@ O arquivo de configuração fica em `~/.secretgo/config.json` e permite ajustar 
 - [Viper](https://github.com/spf13/viper)
 - [SQLite3](https://github.com/mattn/go-sqlite3)
 
-## Licença
-
-MIT
-
 ---
 
 **Autor:** [Lucas Giovanella](https://github.com/lucasgiovanella)
